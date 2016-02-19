@@ -1,7 +1,7 @@
 <h1># Dungeons-And-Dices-Polymer</h1>
 
 <p>This is a project to create an web/mobile application to generate and manage generic RPG sheets.</p>
-<p>There are 3 stages of goal to this project:</p>
+<p>There are 3 goals for this project:</p>
 
 * <h3>Basic Goal</h3>
 <p>Manage the sheets of the most used RPG systems available today with custom itens, set temporary status and have an space to keep anotations.</p>
