@@ -8,7 +8,7 @@
 
 </br>
 
-* <h3>Advanced Goal (main)</h3>
+* <h3>Advanced Goal (Main Goal)</h3>
 <p>Generate and Manage generic RPG sheets and also create a profile to the Master of the group to have space to create itens, mobs and keep story anotations.</p>
 
 </br>
