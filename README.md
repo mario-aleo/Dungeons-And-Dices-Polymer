@@ -1,23 +1,28 @@
-<h1># Dungeons-And-Dices-Polymer</h1>
+# Dungeons-And-Dices-Polymer
 
-<p>This is a project to create an web/mobile application to generate and manage generic RPG sheets.</p>
-<p>There are 3 goals for this project:</p>
+This is a project to create an web/mobile application to generate and manage generic RPG sheets.
 
-* <h3>Basic Goal</h3>
-<p>Manage the sheets of the most used RPG systems available today with custom itens, set temporary status and have an space to keep anotations, also have a system to roll dices to help the plays.</p>
+### Standart Goal  
+- [ ] Select Framework (Polymer or Angular-Material)  
+- [ ] Main Page (List of Sheets and CRUD button)
+- [ ] Create Basic Sheet (D&D 3.0)
+- [ ] Create Anotation View
+- [ ] Create Equipment System
+- [ ] Create Play System (Count Turn and Dice Roll - Attack, Defense and Skills)
+- [ ] Create Item System
+- [ ] Create Buff/Debuff System
+- [ ] Create Leveling System
+- [ ] Create Other Sheets (D&D, Story Teller, Vampire, Final Fantasy RPG, aD&D
 
-</br>
+### Advanced Goal
+- [ ] Create Custom Sheets System
+- [ ] Merge With Other Functions
 
-* <h3>Advanced Goal (Main Goal)</h3>
-<p>Generate and Manage generic RPG sheets and also create a profile to the Master of the group to have space to create itens, mobs and keep story anotations, also have a system to roll dices to help the plays.</p>
+### Ninja Goal  
+- [ ] Create Internet Interaction
+- [ ] Create Sheets Share System
+- [ ] Create Group System
+- [ ] Create Master of the Group Management
 
-</br>
-
-* <h3>Ninja Goal</h3>
-<p>Generate and Manage generic RPG sheets, share custom sheets using an WebAPI system and allow to set an Master User of a group to have access to the group players sheet and manage resources like gold, experience, itens and temporary status.</p>
-
-</br>
-</br>
-
-<h3>For now, I think that...</h3>
+### For now, I think that...
 <img src="http://junkee.com/wp-content/uploads/2013/08/thats-all-folks-7172-1280x800.jpg" />
