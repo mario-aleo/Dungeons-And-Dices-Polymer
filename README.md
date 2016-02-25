@@ -4,12 +4,12 @@
 <p>There are 3 goals for this project:</p>
 
 * <h3>Basic Goal</h3>
-<p>Manage the sheets of the most used RPG systems available today with custom itens, set temporary status and have an space to keep anotations.</p>
+<p>Manage the sheets of the most used RPG systems available today with custom itens, set temporary status and have an space to keep anotations, also have a system to roll dices to help the plays.</p>
 
 </br>
 
 * <h3>Advanced Goal (Main Goal)</h3>
-<p>Generate and Manage generic RPG sheets and also create a profile to the Master of the group to have space to create itens, mobs and keep story anotations.</p>
+<p>Generate and Manage generic RPG sheets and also create a profile to the Master of the group to have space to create itens, mobs and keep story anotations, also have a system to roll dices to help the plays.</p>
 
 </br>
 
